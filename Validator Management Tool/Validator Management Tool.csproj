@@ -21,6 +21,7 @@
     <UseWPF>true</UseWPF>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
     <AssemblyName>Validator_Management_Tool</AssemblyName>
+    <UserSecretsId>e082ec44-6d29-4e37-8593-bb4e20e1274e</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
     <Resource Include="Resources\skyline.ico" />
